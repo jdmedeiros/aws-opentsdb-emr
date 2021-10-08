@@ -28,33 +28,7 @@
     # list contained in the mapping below here will allow a
     # different AZ to be chosen.
     AZRegions:
-      ap-northeast-1:
-        AZs: ["a", "b"]
-      ap-northeast-2:
-        AZs: ["a", "b"]
-      ap-south-1:
-        AZs: ["a", "b"]
-      ap-southeast-1:
-        AZs: ["a", "b"]
-      ap-southeast-2:
-        AZs: ["a", "b"]
-      ca-central-1:
-        AZs: ["a", "b"]
-      eu-central-1:
-        AZs: ["a", "b"]
-      eu-west-1:
-        AZs: ["a", "b"]
-      eu-west-2:
-        AZs: ["a", "b"]
-      sa-east-1:
-        AZs: ["a", "b"]
       us-east-1:
-        AZs: ["a", "b"]
-      us-east-2:
-        AZs: ["a", "b"]
-      us-west-1:
-        AZs: ["a", "b"]
-      us-west-2:
         AZs: ["a", "b"]
 
   Resources:
