@@ -146,7 +146,7 @@ Copy the create script and hop across to the EMR master:
 
 Create the tables (you only need to do this once):
 
-	COMPRESSION=LZO HBASE_HOME=/usr ./create_table.sh
+	COMPRESSION=LZO HBASE_HOME=/usr/lib/hbase ./create_table.sh
 
 Create each new metric name. You'll need to do this for every metric that you want:
 
